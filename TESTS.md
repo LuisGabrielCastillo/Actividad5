@@ -24,25 +24,25 @@ sudo -H pip3 install pytest
 - ## 02 Área Triángulo
     ### Run command
     ```
-    pytest assignments/02AreaTriangulo
+    pytest assignments/02LitrosPintura
     ```
 
 - ## 03 Premedio Calificaciones
     ### Run command
     ```
-    pytest assignments/03Promedio
+    pytest assignments/03DosPuntos
     ```
 
 - ## 04 Calcula tiempo
     ### Run command
     ```
-    pytest assignments/04CalculaTiempo
+    pytest assignments/04LargoEscalera
     ```
 
 - ## 05 Calcula lustros
     ### Run command
     ```
-    pytest assignments/05Lustros
+    pytest assignments/05Poblacion
     ```
 
 - ## 06 Calcula peso por mes
