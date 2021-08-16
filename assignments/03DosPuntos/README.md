@@ -1,5 +1,5 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
-# Promedio de 4 materias
+# Distancia entre dos puntos
 Básicos-Promedio de 4 materias
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise.py` y que contiene el siguiente código:
