@@ -5,17 +5,17 @@
 input_values = [
     (
         # Inputs
-        ["105", "2021"],
+        ["2", "45"],
         # Outputs
-        ["Dame tu edad: ", "Dame el año actual: ", "Cumplirás 100 años en el año: 2016"],
+        ["", "", "3"],
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa tus cálculos."
     ),
     (
         # Inputs
-        ["0", "2000"],
+        ["12", "15"],
         # Outputs
-        ["Dame tu edad: ", "Dame el año actual: ", "Cumplirás 100 años en el año: 2100"],
+        ["", "", "19"],
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa tus cálculos."
     )

@@ -5,25 +5,25 @@
 input_values = [
     (
         # Inputs
-        ["10", "8", "10","8"],
+        ["2", "-4", "5","3"],
         # Outputs
-        ["Calificación de la materia: ", "Calificación de la materia: ", "Calificación de la materia: ", "Calificación de la materia: ", "El promedio es: 9.0"],
+        ["", "", "", "", "", "7.615773105863909"],
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa la prioridad de operadores."
     ),
     (
         # Inputs
-        ["7", "8", "9","10"],
+        ["4", "3", "-1","-8"],
         # Outputs
-        ["Calificación de la materia: ", "Calificación de la materia: ", "Calificación de la materia: ", "Calificación de la materia: ", "El promedio es: 8.5"],
+        ["", "", "", "", "", "12.083045973594572"],
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa la prioridad de operadores."
     ),
     (
         # Inputs
-        ["0", "5", "0","5"],
+         ["2", "4", "5","9"],
         # Outputs
-        ["Calificación de la materia: ", "Calificación de la materia: ", "Calificación de la materia: ", "Calificación de la materia: ", "El promedio es: 2.5"],
+        ["", "", "", "", "", "5.830951894845301"],
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa la prioridad de operadores."
     )
